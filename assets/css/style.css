@@ -1,0 +1,44 @@
+#login{
+	margin: 150px auto;
+	max-width: 350px;
+	border-radius: 5px;
+	padding: 15px;
+	background: black;
+    padding: 15px; 
+	color: white;
+}
+h2{
+	font-family: 'Helvetica';
+	padding: 0 0 0 70px;
+}
+.form-login{
+	padding-top: 10px;
+}
+input{
+	width: 80%;
+	height: 35px;
+	border-radius: 5px;
+	border: 1px solid #bbb;
+	margin-left: 8%;
+}
+submit{
+	background: #e74c3c;
+}
+#menu-kiri{
+	width: 265px;
+}
+.ui-li-static.ui-collapsible > .ui-collapsible-heading{
+	margin: 0;
+}
+.ui-li-static.ui-collapsible{
+	padding: 0;
+}
+.ui-li-static.ui-collapsible > .ui-collapsible-heading > .ui-btn{
+	border-top-width: 0;
+}
+.ui-li-static.ui.collapsible > .ui.collapsible-heading.ui.collapsible-heading-collapsed > .ui-btn, .ui-li-static.ui.collapsible > .ui-collapsible-content{
+	border-bottom-width: 0;
+}
+a:link, a:visited, a:hover, a:active{
+	text-decoration: none;
+}
